@@ -25,5 +25,3 @@ const Index = () => {
 
 export default Index;
 
-// https://github.com/patel0912/ujash-portfolio.git
-// 
